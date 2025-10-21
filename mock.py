@@ -12,3 +12,6 @@ div (a,b)
 def mul (a,b):
     print("Multiplication =", a*b)
 mul (a,b)
+def sum (a,b)
+    print ("Sum =", (a-b)+(a-b)+(a/b)+(a*b))
+sum (a,b)
